@@ -19,4 +19,7 @@ class Owner
     self.all.clear
   end
 
+  def species
+  end
+
 end
